@@ -1,0 +1,9 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: umphrda-bx-tCurve 
+  host: umphrda-bx-tCurve
+  disk_quota: 1024M
+  buildpack: python_buildpack 
