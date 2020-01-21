@@ -2,7 +2,7 @@
 Flask microservice tool created using Test Driven Development and engineering processes that allows individuals to navigate via stars by performing calculations based on the individual’s location data.
 
 ## Getting Started and Executing the Program
-Use any **Python 2** compiler to launch the Flask MicroService and follow up with execution of any of the individual navigation tools. [Deprecated flask dependencies]
+Use any **Python 2** compiler to launch the Flask MicroService and follow up with execution of any of the individual navigation tools.
 
 ## Navigation Tools
 
