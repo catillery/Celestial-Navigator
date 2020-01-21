@@ -12,6 +12,10 @@ Use any **Python 2** compiler to launch the Flask MicroService and follow up wit
 * *correct* - Finds the difference between the observed and expected angle.
 * *locate* - Determines geoposition based on trilateration of multiple sightings.
 
+## Built With
+
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+
 ## Authors
 
 * **Christopher Tillery** - *Python Programming and Software Process Expert*
